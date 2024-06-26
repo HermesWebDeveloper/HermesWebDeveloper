@@ -1,16 +1,16 @@
-## Hi there 👋
+## Sobre Mim
 
-<!--
-**HermesWebDeveloper/HermesWebDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Olá! Eu sou Hermes Barbosa, desenvolvedor(a) de software com paixão por tecnologia e resolução de problemas. Tenho experiência em várias linguagens de programação e sempre busco aprender e crescer como profissional.
 
-Here are some ideas to get you started:
+🎓 Formação Acadêmica:
+1. Engenharia de Software - UNICESUMAR
+  - Período: 2023 - 2027
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Habilidades Técnicas
+  - Linguagens de Programação: HTML5, CSS3, JavaScript, Python, VBA e C.
+  - Frameworks e Bibliotecas: Bootstrap, Django, React e Node.
+  - Ferramentas e Tecnologias: VSCode, PyCharm, trello, Jira, SCRUM, Kanbam, etc. 
+  - Controle de Versão: Git, GitHub
+
+🌱 Atualmente Aprendendo
+  - Desenvolvimento Web Full Stack na Digital College
