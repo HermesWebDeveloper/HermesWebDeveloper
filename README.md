@@ -1,4 +1,4 @@
-<h2 align="left">👋 Olá! Eu sou Hermes Barbosa, desenvolvedor(a) de software com paixão por tecnologia e resolução de problemas. Tenho experiência em várias linguagens de programação e sempre busco aprender e crescer como profissional.</h2>
+<h2 align="left">👋 Olá! Eu sou Hermes Barbosa, desenvolvedor web Full Stack de Fortaleza-CE.</h2>
 
 ###
 
@@ -35,6 +35,8 @@
 
 ###
 ## Sobre Mim
+
+Desenvolvedor(a) de software com paixão por tecnologia e resolução de problemas. Tenho experiência em várias linguagens de programação e sempre busco aprender e crescer como profissional.
 
 🎓 Formação Acadêmica:
 1. Engenharia de Software - UNICESUMAR
