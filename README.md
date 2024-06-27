@@ -37,20 +37,19 @@
 </div>
 
 ###
-## Sobre Mim
-
-Desenvolvedor(a) de software com paixão por tecnologia e resolução de problemas. Tenho experiência em várias linguagens de programação e sempre busco aprender e crescer como profissional.
-
-<h1 align="center">hey there 👋</h1>
-
-###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
+Software developer with a passion for technology, logic and problem solving. I have experience in several programming languages ​​and always seek to learn and grow as a professional.
+
+###
+
 <p align="left">
-  - 🔭 I’m working as ...<br>
-  - 📚 I'm currently learning ...<br>
-  - ⚡ In my free time I ...
+  - 🔭 I’m working as projects web <br>
+  - 📚 I'm currently learning Python <br>
+  - ⚡ In my free time I play the piano <br>
+  - 📫 How to reach me: hermesbarbosa9@gmail.com <br>
+  - 💬 Ask me about python <br>
 </p>
