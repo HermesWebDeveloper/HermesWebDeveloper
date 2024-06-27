@@ -2,7 +2,10 @@
 
 ###
 
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HermesWebDeveloper&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HermesWebDeveloper&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -38,15 +41,16 @@
 
 Desenvolvedor(a) de software com paixão por tecnologia e resolução de problemas. Tenho experiência em várias linguagens de programação e sempre busco aprender e crescer como profissional.
 
-🎓 Formação Acadêmica:
-1. Engenharia de Software - UNICESUMAR
-  - Período: 2023 - 2027
+<h1 align="center">hey there 👋</h1>
 
-🛠️ Habilidades Técnicas
-  - Linguagens de Programação: HTML5, CSS3, JavaScript, Python, VBA e C.
-  - Frameworks e Bibliotecas: Bootstrap, Django, React e Node.
-  - Ferramentas e Tecnologias: VSCode, PyCharm, trello, Jira, SCRUM, Kanbam, etc. 
-  - Controle de Versão: Git, GitHub
+###
 
-🌱 Atualmente Aprendendo
-  - Desenvolvimento Web Full Stack na Digital College
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">
+  - 🔭 I’m working as ...<br>
+  - 📚 I'm currently learning ...<br>
+  - ⚡ In my free time I ...
+</p>
