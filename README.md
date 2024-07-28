@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Hermes, and I'm a Full Stack Develope, from Fortal City, Brazil.</h2>
+<h2 align="left">Hi 👋! My name is Hermes, and I'm a Full Stack Develope, from Fortaleza, Brazil.</h2>
 
 ###
 
